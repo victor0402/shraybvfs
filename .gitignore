@@ -1,0 +1,30 @@
+# IDE support files
+/.classpath
+/.launch
+/.project
+/.settings
+/*.launch
+/*.tmproj
+/ivy*
+/eclipse
+
+
+# Itellij Idea Workspace
+.idea/codeStyleSettings.xml
+.idea/compiler.xml
+.idea/workspace.xml
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/libraries/*
+.idea/gradle_settings2_config.xml
+.idea/dictionaries/*
+.idea/copyright/*
+.idea/inspectionProfiles/*
+.idea/scopes/*
+target/*
+.idea/gradle_settings2_config.xml
+out/*
+gen/*
+*.iml
