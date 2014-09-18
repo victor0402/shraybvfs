@@ -1,4 +1,4 @@
 shraybvfs
 =========
 
-android app for fibochicken (http://www.frango.org/)
+android app for fibochicken (http://fibochicken.blogspot.com.br/)
